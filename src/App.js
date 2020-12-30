@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload. My second lab work attempt.
+          Edit <code>src/App.js</code> and save to reload. My second labwork attempt.
         </p>
         <a
           className="App-link"
@@ -23,4 +23,3 @@ function App() {
 }
 
 export default App;
-© 2020 GitHub, Inc.
